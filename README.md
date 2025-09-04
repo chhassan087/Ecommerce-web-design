@@ -30,6 +30,6 @@ It focuses only on **frontend development** (no backend or database) and demonst
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-frontend-clone.git
+   git clone https://github.com/chhassan087/ecommerce-frontend-clone.git
 
 
